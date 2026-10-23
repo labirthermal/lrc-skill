@@ -1,0 +1,14 @@
+{
+  "name": "lrc-skill",
+  "owner": {
+    "name": "jsroub"
+  },
+  "plugins": [
+    {
+      "name": "lrc-thermo",
+      "source": "./",
+      "description": "Čtení a analýza termovizních záznamů LabIR (.lrc): snímky, ROI statistiky, grafy teploty v čase, profily, export do CSV/NPZ.",
+      "version": "1.2.0"
+    }
+  ]
+}
