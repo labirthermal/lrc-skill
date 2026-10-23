@@ -1,0 +1,10 @@
+{
+  "name": "lrc-thermo",
+  "version": "1.2.0",
+  "description": "Čtení a analýza termovizních záznamů LabIR (.lrc): snímky, ROI statistiky, grafy teploty v čase, profily, export do CSV/NPZ.",
+  "author": {
+    "name": "jsroub"
+  },
+  "repository": "https://github.com/jsroub/lrc-skill",
+  "keywords": ["thermography", "lrc", "labir", "infrared"]
+}
